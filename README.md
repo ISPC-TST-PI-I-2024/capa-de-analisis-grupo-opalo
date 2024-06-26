@@ -3,18 +3,32 @@
 # Proyecto IoT: API RESTful
 
 ## Carátula del ISPC
-
+![Caratula](assets/caratulaPI.png)
 ---
 
 ## Datos del Docente y de la Materia
-
+### Profesor 👨🏻‍🏫: C. Gonzalo Vera 
+### Tecnicatura Superior en Telecomunicaciones 📡
+### Materia Proyecto Integrador I ⚙
 ---
 
 ## Datos del Grupo de Trabajo y sus Integrantes
-
+### Equipo de Desarrollo Opalo:
+- Luciano Lujan | GitHub: https://github.com/lucianoilujan
+- Joaquin Garzón | GitHub: https://github.com/Joacogarzonn
+- Durigutti, Vittorio | GitHub: https://github.com/vittoriodurigutti
+- Joaquin Zalazar | GitHub: https://github.com/breaakerr
+- Lisandro Juncos | GitHub: https://github.com/Lisandro-05
+- Nahuel Velez | GitHub: https://github.com/ISPC-TST-PI-I-2024/ISPC_PI_Lucas_Nahuel_Velez
+- Jose Marquez | GitHub: https://github.com/marquezjose
+- Tomas Repossi | GitHub: https://github.com/TomasRepossi
 ---
 
 ## Datos del Proyecto
+
+Este repositorio está dedicado a la Capa de Analisis del proyecto IoT. Incluye todos los componentes desarrollados y documentación generada por los estudiantes conforme avanzan en la implementación de esta capa del proyecto.
+
+El objetivo principal de este proyecto es crear un sistema IoT que permita monitorear los niveles de glucosa en sangre de un paciente en tiempo real. La arquitectura del sistema incluye un dispositivo IoT que recogerá los datos de glucemia y los enviará a una base de datos para su almacenamiento y análisis.
 
 ---
 
